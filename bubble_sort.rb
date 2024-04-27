@@ -1,4 +1,4 @@
-def bubble_sort
+def bubble_sort(arr)
   out_of_order = true
   counter = 0
 
@@ -14,3 +14,4 @@ def bubble_sort
   end
   arr
 end
+
